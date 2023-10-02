@@ -3,4 +3,4 @@
 
 "this is the second line as per the lab spec"
 
-"Change added in dazzling_feature branch."
+"Change made in dazzling_feature to provoke conflict"
